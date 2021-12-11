@@ -1,0 +1,2 @@
+# XPHardCore
+Plugin for Minecraft
