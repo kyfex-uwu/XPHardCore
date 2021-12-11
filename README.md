@@ -1,5 +1,5 @@
 # XPHardCore
-Plugin for Minecraft, it do cool thing
+Plugin for Paper Minecraft Server, it do cool thing
 
 Thx for checking out the GitHub for this project! XPHardCore is a 1.18.1 only (as of right now) Paper plugin that is survival Minecraft but with a twist: once you hit 0 levels, you're dead forever. >:3
 
