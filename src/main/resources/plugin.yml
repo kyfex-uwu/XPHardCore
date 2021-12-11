@@ -1,0 +1,17 @@
+name: XPHardCore
+version: '${project.version}'
+main: ky.fex.xphardcore.XPHardCore
+api-version: 1.18
+authors: [ kyfex_uwu ]
+description: Hardcore, but you die forever if you have no XP
+
+commands:
+  xphc:
+    description: XPHardCore commands
+    permission: xphardcore.admin
+    permission-message: You're not an admin ;-;
+
+permissions:
+  xphardcore.admin:
+    description: lets a player do something or other
+    default: op
