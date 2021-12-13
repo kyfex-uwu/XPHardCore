@@ -1,0 +1,27 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¼ß…ıüÿÿÿÿ
+O
+java:S1821"4Refactor the code to eliminate this nested "switch".(™€¦ùÿÿÿÿ
+„
+java:S1151"iReduce this switch case number of lines from 8 to at most 5, for example by extracting code into methods.(ÍŸ›ñıÿÿÿÿ
+€
+java:S1151"jReduce this switch case number of lines from 19 to at most 5, for example by extracting code into methods.(¹êüç
+<	java:S131""Add a default case to this switch.(¿ä­¡ùÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(´€¾Õÿÿÿÿÿ
+<	java:S131""Add a default case to this switch.(™€¦ùÿÿÿÿ
+O	java:S126 ";"if ... else if" constructs should end with "else" clauses.(´ÚÅM
+f
+java:S1132"KMove the "false" string literal on the left side of this string comparison.(¥ã•Óşÿÿÿÿ
+_
+java:S1132 "JMove the "true" string literal on the left side of this string comparison.(´ÚÅM
+=	java:S108 ")Either remove or fill this block of code.(´ÚÅM
+E
+java:S6212#"/Declare this local variable with "var" instead.(Ä’²Ÿ
+h
+java:S1142"MReduce the number of returns of this method 5, down to the maximum allowed 3.(¼ß…ıüÿÿÿÿ
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¿ä­¡ùÿÿÿÿ
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(™€¦ùÿÿÿÿ
